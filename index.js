@@ -217,4 +217,4 @@ var url = function () {
     };
 }();
 
-exports.default = url;
+module.exports = url;
