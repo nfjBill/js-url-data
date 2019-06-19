@@ -80,8 +80,6 @@ var url = function () {
             return _t();
         }
 
-        url = url || window.location.toString();
-
         if (!arg) {
             return url;
         }
